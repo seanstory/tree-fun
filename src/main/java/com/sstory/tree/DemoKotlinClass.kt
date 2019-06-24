@@ -1,1 +1,0 @@
-data class DemoKotlinClass(val foo: String = "baz")

@@ -15,7 +15,7 @@
         <logback.version>1.2.3</logback.version>
 
         <spock.version>1.0-groovy-2.4</spock.version>
-        <junit.version>4.11</junit.version>
+        <junit.version>4.13.1</junit.version>
         <cglib.version>3.2.4</cglib.version>
     </properties>
 
